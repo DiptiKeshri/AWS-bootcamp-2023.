@@ -2,7 +2,6 @@
 
 ## Architecture Diagram (Logical & Conceptual)
 [Logical diagram.pdf](https://github.com/DiptiKeshri/AWS-Bootcamp2023/files/10768323/Logical.diagram.pdf)
-![Logical diagram](_108243407/219810822-e5f2227e-a55a-4de0-8748-cfc7da61d4c3.jpeg)
 
 [Conceptual  diagram.pdf](https://github.com/DiptiKeshri/AWS-Bootcamp2023/files/10768452/Conceptual.diagram.pdf)
 
