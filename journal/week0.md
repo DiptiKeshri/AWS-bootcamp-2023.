@@ -21,7 +21,8 @@ It's Done.
 
 
 ### Create a Budget
-
+I create a Budget on AWS console
+![create a budget](assets/Create a Budget.PNG)
 
 #### Architecture Diagram (Logical & Conceptual)
 [Logical diagram.pdf](https://github.com/DiptiKeshri/AWS-Bootcamp2023/files/10768323/Logical.diagram.pdf)
