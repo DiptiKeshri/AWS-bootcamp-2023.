@@ -19,8 +19,14 @@ It's Done.
 
 ### Create a Billing Alarm
 
+I have Created a Billing Alram and sns Topic in AWS CONSOLE
+
+![create Billing Alarm](assets/Create a Billing Alarm.PNG)
+
+![create Topic](assets/Create topic.PNG)
 
 ### Create a Budget
+
 
 
 ### Architecture Diagram (Logical & Conceptual)
