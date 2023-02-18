@@ -17,6 +17,7 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
 
 
+
 #### Architecture Diagram (Logical & Conceptual)
 [Logical diagram.pdf](https://github.com/DiptiKeshri/AWS-Bootcamp2023/files/10768323/Logical.diagram.pdf)
 
