@@ -9,7 +9,7 @@ So I installed AWS CLI for window via command in **command Prompt**:
 
 I followed the instraution on the [AWS CLI Install Documentation page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
-![Installing AWS CLI](assets/Install AWS CLI.png)
+![Installing AWS CLI](assets/Install AWS CLI.PNG)
 
 ```
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
