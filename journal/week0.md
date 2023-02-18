@@ -27,7 +27,9 @@ I have Created a Billing Alram and sns Topic in AWS CONSOLE
 
 ### Create a Budget
 
+I have created a Budget.
 
+![Create a Budget](assets/Create a Budget.PNG)
 
 ### Architecture Diagram (Logical & Conceptual)
 
