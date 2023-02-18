@@ -1,5 +1,22 @@
 # Week 0 — Billing and Architecture
 
+## Required Homework/Tasks
+
+### Install AWS CLI
+I was not able to use Gitpod or Github codespace due to browser issues.
+
+So I installed AWS CLI for window via command in **command Prompt**:
+
+I followed the instraution on the AWS CLI Install Documentation page
+
+![Installing AWS CLI](_docs/assets/Install AWS CLI.png)
+
+```
+msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+
+```
+
+
 ## Architecture Diagram (Logical & Conceptual)
 [Logical diagram.pdf](https://github.com/DiptiKeshri/AWS-Bootcamp2023/files/10768323/Logical.diagram.pdf)
 
