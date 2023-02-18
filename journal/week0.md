@@ -18,10 +18,15 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 It's Done.
 
 ### Create a Billing Alarm
+I created a Billing Alarm and SNS Topic
 
+![Create a bulling Alarm](assets/Create a Billing Alarm.PNG)
+
+![Create a Topic](assets/Create topic.PNG)
 
 ### Create a Budget
-I create a Budget on AWS console
+I created a Budget on AWS console
+
 ![create a budget](assets/Create a Budget.PNG)
 
 #### Architecture Diagram (Logical & Conceptual)
