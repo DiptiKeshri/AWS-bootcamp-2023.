@@ -31,7 +31,7 @@ I have created a Budget.
 
 ![Create a Budget](assets/Create a Budget.PNG)
 
-#### Architecture Diagram (Logical & Conceptual)
+## Architecture Diagram (Logical & Conceptual)
 
 ### Recreate Architectural Diagram
 
