@@ -15,7 +15,12 @@ I followed the instraution on the [AWS CLI Install Documentation page](https://d
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
 ```
+It's Done.
 
+### Create a Billing Alarm
+
+
+### Create a Budget
 
 
 #### Architecture Diagram (Logical & Conceptual)
